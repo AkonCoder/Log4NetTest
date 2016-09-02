@@ -1,0 +1,40 @@
+
+ 
+记录时间：2016-09-02 17:30:56,310 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：TestLog4Net.FormMain property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2016-09-02 17:30:57,468 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：TestLog4Net.FormMain property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2016-09-02 17:30:57,661 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：TestLog4Net.FormMain property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2016-09-02 17:30:57,839 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：TestLog4Net.FormMain property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
+
+ 
+记录时间：2016-09-02 17:30:58,015 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：TestLog4Net.FormMain property: [(null)] - 
+错误描述：测试Log4Net日志是否写入
+ 
